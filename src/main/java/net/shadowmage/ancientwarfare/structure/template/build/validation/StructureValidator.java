@@ -519,7 +519,7 @@ public abstract class StructureValidator {
 	}
 
 	public boolean isSurvival() {
-		return getPropertyValue(SURVIVAL);
+		return true;
 	}
 
 }
